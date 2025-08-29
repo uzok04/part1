@@ -1,0 +1,1 @@
+worked on the exercise named courseInformation, included in part 1

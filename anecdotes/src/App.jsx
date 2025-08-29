@@ -32,7 +32,7 @@ const App = () => {
     newVotes[selected] = (newVotes[selected] || 0) + 1
     setVotes(newVotes)              
   }
-
+  
     const highestVotes = () => {
       let maxIndex = 0
       let maxVotes = 0;
